@@ -15,7 +15,7 @@ with the bank was carried out. Categorical features were divided according to th
 which made it possible to study the impact of each of the individual feature categories on customer selection.
 The most significant features are presented in the table below: 
 
-_______________________
+![alt text](https://github.com/MichalGrzebyk/credit_card_customers/blob/main/Correlation.png?raw=true)
 
 # Model
 I decided to build simple Neural Network:
